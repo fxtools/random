@@ -41,4 +41,4 @@
 * win10-do-not-track howto: https://www.fdossena.com/?p=w10debotnet/index_1809.frag
 
 ### Now just close browser, get a new ip by reconnecting your router and you are done.
-[what is my ip?](https://duckduckgo.com/?q=what+is+my+ip&ia=answer)
+* [What is my ip?](https://duckduckgo.com/?q=what+is+my+ip&ia=answer)
