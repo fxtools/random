@@ -34,6 +34,8 @@
 * type ``!y taylor swift`` to search with yahoo
 * or use other [shortcuts](https://duckduckgo.com/bang)
 
+#### Firefox is spying, too!
+
 ## Other
 * Hosts file: https://github.com/StevenBlack/hosts#list-of-all-hosts-file-variants
 * win10-do-not-track howto: https://www.fdossena.com/?p=w10debotnet/index_1809.frag
