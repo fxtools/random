@@ -34,7 +34,7 @@
 * type ``!y taylor swift`` to search with yahoo
 * or use other [shortcuts](https://duckduckgo.com/bang)
 
-#### Firefox is spying, too!
+#### Firefox is spying, too! And they have some [NSA guy](https://twitter.com/firefox/status/1027918492643799040) oversee it! ha ha
 
 ## Other
 * Hosts file: https://github.com/StevenBlack/hosts#list-of-all-hosts-file-variants
